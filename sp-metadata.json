@@ -1,0 +1,68 @@
+{
+  "data": [
+    {
+      "legalEntityId": "af355133-6d6f-47e5-88d3-20aefe2ffc8f",
+      "status": "ACTIVE",
+      "legalEntityName": "Regional Australia Bank Ltd.",
+      "industry": "banking",
+      "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+      "dataRecipientBrands": [
+        {
+          "dataRecipientBrandId": "af9f578f-3d96-ea11-a831-000d3a8842e1",
+          "brandName": "Regional Australia Bank",
+          "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+          "softwareProducts": [
+            {
+              "softwareProductId": "SP1",
+              "softwareProductName": "Loan Affordability Assessment",
+              "softwareProductDescription": "The Credit Affordability Assessment is a tool that analyses historical bank transactions in order to rapidly produce a summary snapshot of consumer income and expenditure to ensure data is presented in a way to assist with making responsible credit decisions.",
+              "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+              "status": "ACTIVE"
+            },
+            {
+              "softwareProductId": "SP2",
+              "softwareProductName": "Loan Affordability Assessment",
+              "softwareProductDescription": "The Credit Affordability Assessment is a tool that analyses historical bank transactions in order to rapidly produce a summary snapshot of consumer income and expenditure to ensure data is presented in a way to assist with making responsible credit decisions.",
+              "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+              "status": "ACTIVE"
+            }
+          ],
+          "status": "ACTIVE"
+        }
+      ],
+      "lastUpdated": "2021-07-23T00:18:02Z"
+    },
+    {
+      "legalEntityId": "79c00384-631e-43ed-b014-e94b17a00d25",
+      "status": "ACTIVE",
+      "legalEntityName": "Regional Australia Bank Ltd.",
+      "industry": "banking",
+      "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+      "dataRecipientBrands": [
+        {
+          "dataRecipientBrandId": "af9f578f-3d96-ea11-a831-000d3a8842e2",
+          "brandName": "Regional Australia Bank",
+          "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+          "softwareProducts": [
+            {
+              "softwareProductId": "SP3",
+              "softwareProductName": "Loan Affordability Assessment",
+              "softwareProductDescription": "The Credit Affordability Assessment is a tool that analyses historical bank transactions in order to rapidly produce a summary snapshot of consumer income and expenditure to ensure data is presented in a way to assist with making responsible credit decisions.",
+              "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+              "status": "ACTIVE"
+            },
+            {
+              "softwareProductId": "SP4",
+              "softwareProductName": "Loan Affordability Assessment",
+              "softwareProductDescription": "The Credit Affordability Assessment is a tool that analyses historical bank transactions in order to rapidly produce a summary snapshot of consumer income and expenditure to ensure data is presented in a way to assist with making responsible credit decisions.",
+              "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
+              "status": "ACTIVE"
+            }
+          ],
+          "status": "ACTIVE"
+        }
+      ],
+      "lastUpdated": "2021-07-23T00:18:02Z"
+    }
+  ]
+}
