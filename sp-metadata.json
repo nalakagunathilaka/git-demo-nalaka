@@ -34,7 +34,7 @@
     },
     {
       "legalEntityId": "79c00384-631e-43ed-b014-e94b17a00d25",
-      "status": "ACTIVE",
+      "status": "SUSPENDED",
       "legalEntityName": "Regional Australia Bank Ltd.",
       "industry": "banking",
       "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
@@ -56,7 +56,7 @@
               "softwareProductName": "Loan Affordability Assessment",
               "softwareProductDescription": "The Credit Affordability Assessment is a tool that analyses historical bank transactions in order to rapidly produce a summary snapshot of consumer income and expenditure to ensure data is presented in a way to assist with making responsible credit decisions.",
               "logoUri": "https://www.regionalaustraliabank.com.au/-/media/CommunityMutual/Images/Logo/regional-australia-bank-primary-logo.png",
-              "status": "INACTIVE"
+              "status": "REMOVED"
             }
           ],
           "status": "ACTIVE"
